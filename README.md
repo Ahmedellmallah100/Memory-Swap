@@ -96,6 +96,26 @@ Stores the data and provides simultaneous read/write access.
 
 Include your block diagram here:
 
-![Memory Swap Block Diagram](Memory-Swap/Screenshot 2025-09-24 202413.png)
+![Memory Swap Block Diagram](Memory-Swap/Screenshot%202025-09-24%20202413.png)
 
+*(Save the diagram in `Memory-Swap/` and update the path if needed.)*
 
+---
+
+## ✅ Tips for GitHub
+
+- Save this file as `README.md` in the root of your repo.  
+- Place your diagrams in a folder like `Memory-Swap/`.  
+- Update the file paths for your images.  
+- Add a license (MIT, Apache 2.0, etc.) if it’s public.  
+- Use descriptive commit messages to track updates.  
+
+---
+
+## 📜 License
+
+Add your preferred license here (e.g. MIT, Apache 2.0).  
+
+---
+
+### 🌟 This README is ready for GitHub and presents your Memory Swap System clearly and professionally!
