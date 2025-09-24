@@ -1,0 +1,12 @@
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+Start time: 20:02:26 on Sep 24,2025
+vlog C:/Users/asus/Desktop/Swap_Memory/RTL/mux4_1.v C:/Users/asus/Desktop/Swap_Memory/RTL/reg_file.v C:/Users/asus/Desktop/Swap_Memory/RTL/Swap_Fsm.v C:/Users/asus/Desktop/Swap_Memory/RTL/Top.v -work work 
+-- Compiling module mux4_1
+-- Compiling module reg_file
+-- Compiling module Swap_Fsm
+-- Compiling module Top
+
+Top level modules:
+	Top
+End time: 20:02:27 on Sep 24,2025, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
